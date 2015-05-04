@@ -1,7 +1,8 @@
-# lanclid2
-Language Comparison with Linguistic Databases 2
+# Language Comparison with Linguistic Databases 2
 
-Talks:
+This one-day workshop brings together people who are involved in the construction and further development of cross-linguistic (lexical, grammatical, phonological) databases. It is a continuation of the first [LanCLiD workshop held in Nijmegen in October 2014](http://www.mpi.nl/events/language-comparison-with-linguistic-databases-reflex-and-typological-databases).
+
+## Programme
 
 - Paul Heggarty with Jakob Runge and Hans-Jörg Bibiko: "Not just visualising:  'auditorising' phonetic diversity and cognacy, through the Sound Comparisons web interface."
 - James McElvenny: ["Visualization and user interface design in the World Phonotactics Database"](http://phonotactics.anu.edu.au/)
